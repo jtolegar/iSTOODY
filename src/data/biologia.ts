@@ -13,7 +13,7 @@ export const biologia: Product = {
   accentVar: "var(--subject-bio)",
   accentSoft: "rgba(47,125,91,0.08)",
 
-  hotmartUrl: "https://pay.hotmart.com/U106939936T",
+  hotmartUrl: "https://pay.hotmart.com/U106939936T?off=qbbho0k0",
   sampleFile: "/muestras/biologia-muestra-tema1.pdf",
   price: "19,99 €",
 
